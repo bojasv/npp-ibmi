@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NotepadPlus>
+  <AutoComplete language="CLLE">
+    <!-- Tests that failed (and worked) -->
+    <!-- <Environment ignoreCase="no" startFunc="(" stopFunc=")" paramSeparator="," terminal=";" additionalWordChar = "."/> -->
+    <Environment startFunc="(" />
+    <!-- <KeyWord name="ADDACC">
+      <Overload descr="Add Access Code" />
+    </KeyWord> -->
+    <KeyWord name="ADDACC" func="yes" >
+    <!-- <KeyWord name="ADDACC" descr="Add Access Code" /> -->
+      <Overload retVal="" descr="Add Access Code" >
+      <!-- <Overload descr="Add Access Code" > -->
+        <Param name="" />
+      </Overload>
+   </KeyWord>
+  </AutoComplete>
+</NotepadPlus>
+<!-- References: https://npp-user-manual.org/docs/auto-completion/ -->
