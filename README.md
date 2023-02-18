@@ -1,7 +1,7 @@
 # npp-ibmi
 sister repo for halcyon-tech/vscode-ibmi
 
-XML Script for CLLE [Click here to download](https://github.com/bojasv/npp-ibmi/blob/main/autoCompletion/clle.xml)
+XML Script for CLLE [Click here to view source](https://github.com/bojasv/npp-ibmi/blob/main/autoCompletion/clle.xml)
 
 The source by default opens-up in 'Normal text file' mode (bottom-left: highlighted in orange)
 
